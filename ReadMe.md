@@ -1,0 +1,1 @@
+This repo holds sample code for the Gold Standard components effort. For now, you'll find the most interesting content in the [wiki](https://github.com/webcomponents/gold-standard/wiki).
