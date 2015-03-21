@@ -1,0 +1,64 @@
+Expressed Dependencies
+Load Order Independence
+Relative Paths
+Host Independence
+Detached Instantiation
+Detachment
+Reattachment
+Local effects only
+Focusable
+Focus Order
+Aggregate Focus
+Focus Visible
+Keyboard Support
+Keyboard Locality
+Labels
+ARIA Role
+UI States
+Sufficient Contrast
+Redundant Color
+High Contrast
+Plain Tag
+Children Visible
+Content Reprojection
+Content Changes
+Child Independence
+Auxiliary Content
+Back-End Independence
+Presentable
+Generic Styling
+Informational Animation
+Default Font
+Default Colors
+Restrained Color
+Size to Content
+Default Size
+Stretch to Fit
+Automatic Positioning
+Child Positioning
+Style Recalc
+Size Recalc
+Responsive
+Member Order Independence
+Member Combinations
+Required Properties
+Exposed Methods
+Exposed Events
+Documented API
+Computational Performance
+Network Performance
+Render Performance
+Vector Graphics
+Progress Feedback
+Localizable Strings
+Date+Time Format
+Currency Format
+Right-to-Left
+Appropriate Base Class
+Composition
+Subclassable
+Overridable Methods
+Purpose Statement
+Code Style Guide
+Open License
+Clean Console
